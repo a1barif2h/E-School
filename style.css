@@ -1,3 +1,23 @@
+/* START HEADER SECTION */
+#header {
+    background-color: #F0FFF0;
+    padding-bottom: 50px;
+}
+
+section {
+    margin-top: 100px;
+}
+
 .btn {
     border-radius: 50px;
 }
+
+.text-spcial {
+    color: #FD511A;
+}
+
+.col-md-5 h1 {
+    color: #000;
+}
+
+/* END HEADER SECTION */
