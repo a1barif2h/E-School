@@ -58,3 +58,38 @@ section {
     color: #585859;
     font-weight: bold;
 }
+
+/* END CATGORIES SECTION */
+
+/* START ONLINE COURSES SECTION */
+.card {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+}
+
+.card-inside {
+    width: 90%;
+    margin: 15px auto;
+}
+
+.card-inside img {
+    width: 100%;
+}
+
+.card-footer {
+    border: none;
+    background-color: #fff;
+}
+
+.card-footer img {
+    width: 20px;
+}
+
+.Online-Courses h2 {
+    margin-bottom: 50px;
+}
+
+/* END ONLINE COURSES SECTION */
