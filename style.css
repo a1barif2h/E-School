@@ -94,6 +94,7 @@ section {
 
 /* END ONLINE COURSES SECTION */
 
+/* START TESTIMONIAL SECTION */
 .testimonial h2 {
     text-align: center;
     margin-bottom: 50px;
@@ -109,3 +110,35 @@ section {
 .testimonial img {
     width: 100%;
 }
+
+/* END TESTIMONIAL SECTION */
+
+/* START FOOTER SECTION */
+#footer {
+    background-color: #282531;
+}
+
+
+
+#footer ul li {
+    padding: 5px 10px;
+}
+
+#footer ul li:nth-child(2) {
+    padding-top: 0;
+}
+
+#footer ul li a,
+#footer h5 {
+    color: #fff;
+}
+
+#footer ul li a {
+    font-weight: 500;
+}
+
+#footer .row {
+    padding: 30px 10px;
+}
+
+/* END FOOTER SECTION */
