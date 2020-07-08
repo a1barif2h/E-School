@@ -93,3 +93,19 @@ section {
 }
 
 /* END ONLINE COURSES SECTION */
+
+.testimonial h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: 700;
+    color: #000;
+}
+
+.testimonial .row {
+    width: 100%;
+    margin: auto;
+}
+
+.testimonial img {
+    width: 100%;
+}
